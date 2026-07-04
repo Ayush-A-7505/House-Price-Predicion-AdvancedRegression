@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Conda
+.conda/
+.env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+*.pkl
+*.joblib
